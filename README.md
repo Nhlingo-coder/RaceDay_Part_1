@@ -263,3 +263,7 @@ The commits should represent real changes and must be made using the student's o
 The RaceDay Part 1 planning provides the foundation for Part 2 development. The ERD defines the database structure, the API plan defines the planned RESTful endpoints, and the SQL script creates and populates the RaceDay database in SQL Server.
 
 The ERD, API plan and SQL script should remain consistent with the final application implementation. Any deliberate changes made in Part 2 should be documented in the repository.
+
+## 15. Youtube Link
+
+https://youtu.be/NT5vAyYRkYc?si=npXHYWnKNjgNgfmD
